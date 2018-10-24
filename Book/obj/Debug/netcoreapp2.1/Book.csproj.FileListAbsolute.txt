@@ -1,0 +1,9 @@
+C:\Users\turic\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.deps.json
+C:\Users\turic\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.dll
+C:\Users\turic\source\repos\Book\Book\bin\Debug\netcoreapp2.1\Book.pdb
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.csprojAssemblyReference.cache
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfoInputs.cache
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.AssemblyInfo.cs
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.dll
+C:\Users\turic\source\repos\Book\Book\obj\Debug\netcoreapp2.1\Book.pdb
